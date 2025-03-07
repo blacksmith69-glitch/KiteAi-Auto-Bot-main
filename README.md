@@ -25,8 +25,8 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/KiteAi-Auto-Bot.git
-cd KiteAi-Auto-Bot
+git clone https://github.com/blacksmith69-glitch/KiteAi-Auto-Bot-main
+cd KiteAi-Auto-Bot-main
 ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ socks5://user:pass@host:port
 
 2. Create a `wallets.txt` file for multiple wallets:
 ```
-wallets.txt
+nano wallets.txt
 ```
 
 ```
