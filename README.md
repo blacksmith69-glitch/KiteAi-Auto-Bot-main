@@ -1,6 +1,6 @@
-# Pharos Testnet Bot v3.0
+# kite ai Testnet Bot v3.0
 
-A Node.js-based bot designed to automate interactions with the Pharos Testnet, supporting proxy usage and account management for seamless operation.
+A Node.js-based bot designed to automate interactions with the kite ai Testnet, supporting proxy usage and account management for seamless operation.
 
 ---
 
